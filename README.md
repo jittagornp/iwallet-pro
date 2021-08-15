@@ -16,7 +16,7 @@
 | Transfer History |  | :white_check_mark: |
 | Know your Profit & Loss |  | :white_check_mark: |
 | Transfer UI |  | :white_check_mark: |
-| Best Rate Swap |  | :white_check_mark: |
+| Line Notification |  | :white_check_mark: |
 
 # How to install iWallet Pro
 
