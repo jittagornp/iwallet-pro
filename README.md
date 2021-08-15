@@ -43,7 +43,7 @@ $ echo $CR_PAT | docker login ghcr.io -u USERNAME --password-stdin
 $ docker pull ghcr.io/jittagornp/iwallet
 ```
 
-5. Install follow this link
+5. Run follow this link
 
 > https://hub.docker.com/r/jittagornp/iwallet
 
