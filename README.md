@@ -4,7 +4,7 @@
 
 # Features
 
-| Feature | Fre | Pro | 
+| Feature | Free | Pro | 
 |---------|-----|-----|
 | Support multiple wallets. | :white_check_mark: | :white_check_mark: |
 | Support multiple networks (BSC, Polygon, Bitkub). | :white_check_mark: | :white_check_mark: |
