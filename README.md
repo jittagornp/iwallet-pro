@@ -113,7 +113,12 @@ $ docker run -d \
 
 # Transfer 
 
-> Config recipient whitelist
+This feature required 
+
+- LINE notify token
+- Google Authenticator Code 
+
+### Config recipient whitelist
  
 For `*.config.json` 
 
