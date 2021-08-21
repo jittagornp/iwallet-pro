@@ -101,7 +101,7 @@ $ docker run -d \
  
 For `*.config.json` 
 
-```json
+```js
 {
   
   ...
@@ -120,6 +120,34 @@ For `*.config.json`
         "name" : "Wallet 3",
         "address" : "0x3333333333333333333333333333333333333333"
      }
+  ]
+}
+```
+
+Example
+
+```js
+{
+  "walletFile" : "0x7fe5999fd513deae43d19dd0ab3cce8491ed6440.wallet.json",
+  "walletPassword" : "123456",
+  "network" : "POLYGON_MAINNET",
+  "tokenA" : "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270", //WMATIC
+  "tokenB" : "0x2791bca1f2de4661ed88a30c99a7a9449aa84174", //USDC
+  "minimumGasBalance" : 0.01,
+  "fillGasTokenBAmount" : 3,
+  "swapRouter" : "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff", //Quickswap Router
+  "gasSwapRouter" : "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff", //Quickswap Router
+  "defaultSwapSlippage" : 0.5,
+  "defaultSwapDeadlineMinutes" : 10,
+  "tokenAutoApproveNTimes" : 3.0,
+  "differenceAtLeastPercent" : 10.0,
+  "swapPercent" : 50.0,
+  "swapAtLeastValue" : 1,
+  "recipientWhitelist" : [
+    {
+      "name" : "MetaMask",
+      "address" : "0x22203d22226d34D333333333C65Ad7ADa2111111"
+    }  
   ]
 }
 ```
