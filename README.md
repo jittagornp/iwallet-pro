@@ -101,6 +101,10 @@ For `*.config.json`
 
 ```json
 {
+  
+  ...
+  ...
+  
   "recipientWhitelist" : [
      {
         "name" : "Wallet 1",
@@ -117,3 +121,7 @@ For `*.config.json`
   ]
 }
 ```
+
+# See more
+
+- [https://hub.docker.com/r/jittagornp/iwallet](https://hub.docker.com/r/jittagornp/iwallet)
