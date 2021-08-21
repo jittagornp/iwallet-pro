@@ -18,6 +18,8 @@
 | Transfer UI |  | :white_check_mark: |
 | Line Notification |  | :white_check_mark: |
 
+For free version : [https://hub.docker.com/r/jittagornp/iwallet](https://hub.docker.com/r/jittagornp/iwallet)
+
 # How to install iWallet Pro
 
 1. Export token to system environment variable.
