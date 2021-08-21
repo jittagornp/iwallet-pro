@@ -2,6 +2,10 @@
 
 > DeFi Portfolio Rebalancing - Pro
 
+# Current version
+
+> 1.1.0
+
 # Features
 
 | Feature | Free | Pro | 
