@@ -44,6 +44,12 @@ $ echo $CR_PAT | docker login ghcr.io -u USERNAME --password-stdin
 $ docker pull ghcr.io/jittagornp/iwallet
 ```
 
+# Update to latest version
+
+```sh
+$ docker pull ghcr.io/jittagornp/iwallet
+```
+
 # Generate wallet
 
 ```sh
