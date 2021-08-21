@@ -108,15 +108,15 @@ For `*.config.json`
   "recipientWhitelist" : [
      {
         "name" : "Wallet 1",
-        "address" : "0x1111...1111"
+        "address" : "0x1111111111111111111111111111111111111111"
      },
      {
         "name" : "Wallet 2",
-        "address" : "0x2222...2222"
+        "address" : "0x2222222222222222222222222222222222222222"
      },
      {
         "name" : "Wallet 3",
-        "address" : "0x3333...3333"
+        "address" : "0x3333333333333333333333333333333333333333"
      }
   ]
 }
