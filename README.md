@@ -2,6 +2,12 @@
 
 > DeFi Portfolio Rebalancing - Pro
 
+![](./screen-1.png)
+
+![](./screen-2.png)
+
+![](./screen-3.png)
+
 # Current version
 
 > 1.1.0
