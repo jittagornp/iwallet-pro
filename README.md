@@ -37,8 +37,6 @@ For free version : [https://hub.docker.com/r/jittagornp/iwallet](https://hub.doc
 ```sh
 $ export CR_PAT="<YOUR_TOKEN>"
 ```
-**Remarks**  
-CR_PAT = Container Registry Personal Access Token
 
 2. Close and reopen the Terminal.
 
@@ -53,6 +51,8 @@ $ echo $CR_PAT | docker login ghcr.io -u USERNAME --password-stdin
 ```sh
 $ docker pull ghcr.io/jittagornp/iwallet
 ```
+**Remarks**  
+CR_PAT = Container Registry Personal Access Token
 
 # Update to latest version
 
